@@ -1,6 +1,6 @@
 # Hi, I'm samz
 
-## About Me: 
+# About Me: 
 🌱 Passionate about learning how to code! <br>🔎 Experience in mostly JavaScript, and some in Python, Java, & HTML.
 
 # 💻 Programming Languages:
