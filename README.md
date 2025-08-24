@@ -1,13 +1,10 @@
 # Hi, I'm samz
 
 ## About Me: 
-🌱 Passionate about learning how to code! 
-🔎 Experience in mostly JavaScript, and some in Python, Java, & HTML.
+🌱 Passionate about learning how to code! <br>🔎 Experience in mostly JavaScript, and some in Python, Java, & HTML.
 
 # 💻 Programming Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) 
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
  # 🗒️Future Goals:
-🏢 Gain more experience and profiency in Python, Java, & HTML
-⭐ Learn CSS and C#
-🔨 Work on more passion projects!
+🏢 Gain more experience and profiency in Python, Java, & HTML <br>⭐ Learn CSS and C# <br>🔨 Work on more passion projects!
