@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm samz
 
-<!--
-**samz-1/samz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me: 
+🌱 Passionate about learning how to code! 
+🔎 Experience in mostly JavaScript, and some in Python, Java, & HTML.
 
-Here are some ideas to get you started:
+# 💻 Programming Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # 🗒️Future Goals:
+🏢 Gain more experience and profiency in Python, Java, & HTML
+⭐ Learn CSS and C#
+🔨 Work on more passion projects!
